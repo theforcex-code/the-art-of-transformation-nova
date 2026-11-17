@@ -22,7 +22,7 @@ window.pharmaStore=(()=>{
   const keepLocal=()=>{try{localStorage.setItem(KEY,JSON.stringify(state));}catch{}};
 
   async function fetchState(){
-    const r=await fetch(API,{cache:'no-store'});
+    const r=await fetch(API);
     if(!r.ok||!r.headers.get('content-type')?.includes('json'))throw new Error('sem servidor');
     const data=await r.json();rev=data.rev||0;return normalize(data);
   }
@@ -114,7 +114,7 @@ window.pharmaStore=(()=>{
     // Reload only when someone else saved since (a cheap check of the revision), and never over unsaved edits.
     async pull(){
       if(!remote||saving||pending.length)return false;
-      const r=await fetch(API+'?so=rev',{cache:'no-store'}).catch(()=>null);if(!r?.ok)return false;
+      const r=await fetch(API+'?so=rev').catch(()=>null);if(!r?.ok)return false;
       const n=(await r.json().catch(()=>({}))).rev;if(n==null||n===rev||saving||pending.length)return false;
       await this.refresh();return true;
     },
