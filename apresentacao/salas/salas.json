@@ -1,0 +1,261 @@
+{
+ "forma": {
+  "nomes": [
+   "Preto",
+   "Branco",
+   "Br · Pr",
+   "Pr · Br"
+  ],
+  "fotos": [
+   {
+    "sala": "forma-0-sala.jpg",
+    "parede1": "forma-0-parede1.jpg",
+    "parede2": "forma-0-parede2.jpg",
+    "mesa": "forma-0-mesa.jpg"
+   },
+   {
+    "sala": "forma-1-sala.jpg",
+    "parede1": "forma-1-parede1.jpg",
+    "parede2": "forma-1-parede2.jpg",
+    "mesa": "forma-1-mesa.jpg"
+   },
+   {
+    "sala": "forma-2-sala.jpg",
+    "parede1": "forma-2-parede1.jpg",
+    "parede2": "forma-2-parede2.jpg",
+    "mesa": "forma-2-mesa.jpg"
+   },
+   {
+    "sala": "forma-3-sala.jpg",
+    "parede1": "forma-3-parede1.jpg",
+    "parede2": "forma-3-parede2.jpg",
+    "mesa": "forma-3-mesa.jpg"
+   }
+  ]
+ },
+ "couvert": {
+  "nomes": [
+   "Caminho 1",
+   "Caminho 2",
+   "Caminho 3",
+   "Caminho 4",
+   "Caminho 5",
+   "Caminho 6"
+  ],
+  "fotos": [
+   {
+    "sala": "couvert-0-sala.jpg",
+    "parede1": "couvert-0-parede1.jpg",
+    "parede2": "couvert-0-parede2.jpg",
+    "mesa": "couvert-0-mesa.jpg"
+   },
+   {
+    "sala": "couvert-1-sala.jpg",
+    "parede1": "couvert-1-parede1.jpg",
+    "parede2": "couvert-1-parede2.jpg",
+    "mesa": "couvert-1-mesa.jpg"
+   },
+   {
+    "sala": "couvert-2-sala.jpg",
+    "parede1": "couvert-2-parede1.jpg",
+    "parede2": "couvert-2-parede2.jpg",
+    "mesa": "couvert-2-mesa.jpg"
+   },
+   {
+    "sala": "couvert-3-sala.jpg",
+    "parede1": "couvert-3-parede1.jpg",
+    "parede2": "couvert-3-parede2.jpg",
+    "mesa": "couvert-3-mesa.jpg"
+   },
+   {
+    "sala": "couvert-4-sala.jpg",
+    "parede1": "couvert-4-parede1.jpg",
+    "parede2": "couvert-4-parede2.jpg",
+    "mesa": "couvert-4-mesa.jpg"
+   },
+   {
+    "sala": "couvert-5-sala.jpg",
+    "parede1": "couvert-5-parede1.jpg",
+    "parede2": "couvert-5-parede2.jpg",
+    "mesa": "couvert-5-mesa.jpg"
+   }
+  ]
+ },
+ "primeiro": {
+  "nomes": [
+   "Caminho 1",
+   "Caminho 2",
+   "Caminho 3",
+   "Caminho 4"
+  ],
+  "fotos": [
+   {
+    "sala": "primeiro-0-sala.jpg",
+    "parede1": "primeiro-0-parede1.jpg",
+    "parede2": "primeiro-0-parede2.jpg",
+    "mesa": "primeiro-0-mesa.jpg"
+   },
+   {
+    "sala": "primeiro-1-sala.jpg",
+    "parede1": "primeiro-1-parede1.jpg",
+    "parede2": "primeiro-1-parede2.jpg",
+    "mesa": "primeiro-1-mesa.jpg"
+   },
+   {
+    "sala": "primeiro-2-sala.jpg",
+    "parede1": "primeiro-2-parede1.jpg",
+    "parede2": "primeiro-2-parede2.jpg",
+    "mesa": "primeiro-2-mesa.jpg"
+   },
+   {
+    "sala": "primeiro-3-sala.jpg",
+    "parede1": "primeiro-3-parede1.jpg",
+    "parede2": "primeiro-3-parede2.jpg",
+    "mesa": "primeiro-3-mesa.jpg"
+   }
+  ]
+ },
+ "segundo": {
+  "nomes": [
+   "Caminho 1",
+   "Caminho 2",
+   "Caminho 3",
+   "Caminho 4"
+  ],
+  "fotos": [
+   {
+    "sala": "segundo-0-sala.jpg",
+    "parede1": "segundo-0-parede1.jpg",
+    "parede2": "segundo-0-parede2.jpg",
+    "mesa": "segundo-0-mesa.jpg"
+   },
+   {
+    "sala": "segundo-1-sala.jpg",
+    "parede1": "segundo-1-parede1.jpg",
+    "parede2": "segundo-1-parede2.jpg",
+    "mesa": "segundo-1-mesa.jpg"
+   },
+   {
+    "sala": "segundo-2-sala.jpg",
+    "parede1": "segundo-2-parede1.jpg",
+    "parede2": "segundo-2-parede2.jpg",
+    "mesa": "segundo-2-mesa.jpg"
+   },
+   {
+    "sala": "segundo-3-sala.jpg",
+    "parede1": "segundo-3-parede1.jpg",
+    "parede2": "segundo-3-parede2.jpg",
+    "mesa": "segundo-3-mesa.jpg"
+   }
+  ]
+ },
+ "terceiro": {
+  "nomes": [
+   "Caminho 1",
+   "Caminho 2",
+   "Caminho 3",
+   "Caminho 4"
+  ],
+  "fotos": [
+   {
+    "sala": "terceiro-0-sala.jpg",
+    "parede1": "terceiro-0-parede1.jpg",
+    "parede2": "terceiro-0-parede2.jpg",
+    "mesa": "terceiro-0-mesa.jpg"
+   },
+   {
+    "sala": "terceiro-1-sala.jpg",
+    "parede1": "terceiro-1-parede1.jpg",
+    "parede2": "terceiro-1-parede2.jpg",
+    "mesa": "terceiro-1-mesa.jpg"
+   },
+   {
+    "sala": "terceiro-2-sala.jpg",
+    "parede1": "terceiro-2-parede1.jpg",
+    "parede2": "terceiro-2-parede2.jpg",
+    "mesa": "terceiro-2-mesa.jpg"
+   },
+   {
+    "sala": "terceiro-3-sala.jpg",
+    "parede1": "terceiro-3-parede1.jpg",
+    "parede2": "terceiro-3-parede2.jpg",
+    "mesa": "terceiro-3-mesa.jpg"
+   }
+  ]
+ },
+ "quarto": {
+  "nomes": [
+   "Caminho 1",
+   "Caminho 2",
+   "Caminho 3",
+   "Caminho 4",
+   "Caminho 5"
+  ],
+  "fotos": [
+   {
+    "sala": "quarto-0-sala.jpg",
+    "parede1": "quarto-0-parede1.jpg",
+    "parede2": "quarto-0-parede2.jpg",
+    "mesa": "quarto-0-mesa.jpg"
+   },
+   {
+    "sala": "quarto-1-sala.jpg",
+    "parede1": "quarto-1-parede1.jpg",
+    "parede2": "quarto-1-parede2.jpg",
+    "mesa": "quarto-1-mesa.jpg"
+   },
+   {
+    "sala": "quarto-2-sala.jpg",
+    "parede1": "quarto-2-parede1.jpg",
+    "parede2": "quarto-2-parede2.jpg",
+    "mesa": "quarto-2-mesa.jpg"
+   },
+   {
+    "sala": "quarto-3-sala.jpg",
+    "parede1": "quarto-3-parede1.jpg",
+    "parede2": "quarto-3-parede2.jpg",
+    "mesa": "quarto-3-mesa.jpg"
+   },
+   {
+    "sala": "quarto-4-sala.jpg",
+    "parede1": "quarto-4-parede1.jpg",
+    "parede2": "quarto-4-parede2.jpg",
+    "mesa": "quarto-4-mesa.jpg"
+   }
+  ]
+ },
+ "sobremesa": {
+  "nomes": [
+   "Caminho 1",
+   "Caminho 2",
+   "Caminho 3",
+   "Caminho 4"
+  ],
+  "fotos": [
+   {
+    "sala": "sobremesa-0-sala.jpg",
+    "parede1": "sobremesa-0-parede1.jpg",
+    "parede2": "sobremesa-0-parede2.jpg",
+    "mesa": "sobremesa-0-mesa.jpg"
+   },
+   {
+    "sala": "sobremesa-1-sala.jpg",
+    "parede1": "sobremesa-1-parede1.jpg",
+    "parede2": "sobremesa-1-parede2.jpg",
+    "mesa": "sobremesa-1-mesa.jpg"
+   },
+   {
+    "sala": "sobremesa-2-sala.jpg",
+    "parede1": "sobremesa-2-parede1.jpg",
+    "parede2": "sobremesa-2-parede2.jpg",
+    "mesa": "sobremesa-2-mesa.jpg"
+   },
+   {
+    "sala": "sobremesa-3-sala.jpg",
+    "parede1": "sobremesa-3-parede1.jpg",
+    "parede2": "sobremesa-3-parede2.jpg",
+    "mesa": "sobremesa-3-mesa.jpg"
+   }
+  ]
+ }
+}
