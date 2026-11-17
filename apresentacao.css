@@ -1233,3 +1233,15 @@ h1{font-family:"Times New Roman",Times,serif!important;font-weight:400!important
 
 /* (site publicado) sem o botao Editar imagens */
 #edit-toggle{display:none!important}
+
+/* (site publicado) a sala 3D presa à tela, na ordem dos cartões; a barra acima de todos */
+#room3d{position:fixed}
+.bar{z-index:1000}
+.toast{z-index:1001}
+
+/* (site publicado) rolando: a sala some e a sua última imagem fica no próprio cartão */
+#room3d.rolando{opacity:0!important;transition:none!important}
+.stage-box>canvas.snap-rola{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
+
+/* (site publicado) sem as setinhas redondas dos lados da sala: troca de parede e mesa pelos botões */
+.room-arrow{display:none!important}
