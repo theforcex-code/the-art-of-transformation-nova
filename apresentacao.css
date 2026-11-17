@@ -1231,6 +1231,13 @@ h1{font-family:"Times New Roman",Times,serif!important;font-weight:400!important
 /* on the final card the acts' rail and side tools step aside (the card has its own) */
 .na-sala-final #trilho,.na-sala-final .stage-tools.lado,.na-sala-final #vistas3{opacity:0!important;filter:blur(6px);pointer-events:none!important;transition:opacity .35s,filter .35s}
 
+/* (17/11 c) tudo em vídeo: a sala de cada ato e o cartão final são vídeos prontos (bake_salas.py), sem 3D */
+.sala-viva{background:#0b0b0c}
+.sala-viva video{position:absolute;inset:0;width:100%;height:100%;object-fit:contain;opacity:0;transition:opacity .6s ease;background:transparent}
+.sala-viva video.vis{opacity:1}
+.sala-final .final-box{position:relative;overflow:hidden}
+#room3d{display:none!important}
+
 /* (site publicado) sem o botao Editar imagens */
 #edit-toggle{display:none!important}
 
