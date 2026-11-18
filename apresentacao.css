@@ -1238,6 +1238,12 @@ h1{font-family:"Times New Roman",Times,serif!important;font-weight:400!important
 .sala-final .final-box{position:relative;overflow:hidden}
 #room3d{display:none!important}
 
+/* (18/11) full screen of the room (a video now): double click on the room; the room's box fills the screen, whole, on black */
+.stage-box:fullscreen,.final-box:fullscreen{width:100vw!important;height:100vh!important;max-width:none!important;max-height:none!important;aspect-ratio:auto!important;margin:0!important;border-radius:0!important;background:#000!important}
+.stage-box:fullscreen .sala-viva video,.final-box:fullscreen video{object-fit:contain!important}
+.stage-box:fullscreen .room-arrow{display:none!important}
+.stage-box{cursor:zoom-in}
+
 /* (site publicado) sem o botao Editar imagens */
 #edit-toggle{display:none!important}
 
